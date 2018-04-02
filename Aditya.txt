@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 my name is aditya.
+=======
+my name is aditya karnad.121313
+>>>>>>> develop
